@@ -12,7 +12,7 @@ It's a pleasure to  be on my Web Page , in this tabel you will see the Contents 
                       
 | Contant | Page number  | Fee  |
 | ---------| ----------- |---------|
-|  Growth Mindset  | [PAGE1](https://niveenalsmadi.github.io/reading-notes/Growth%20Mindset)| 0$ |
+|  Growth Mindset  | [PAGE1](https://niveenalsmadi.github.io/reading-notes/Growth)| 0$ |
 |  MARKDOWN |[PAGE2](https://niveenalsmadi.github.io/reading-notes/Learning%20Markdown)| 0$ |
 |  GITHUB |[PAGE3](https://niveenalsmadi.github.io/reading-notes/GITHUB)| 0$ | 
 |  HTML|[PAGE4](https://niveenalsmadi.github.io/reading-notes/HTML)| 0$| 
