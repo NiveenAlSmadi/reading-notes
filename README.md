@@ -5,7 +5,8 @@ It's a pleasure to me to be in my Web Page , in this page you will find some of 
 [AND DON'T FORGET TO FOLLOW ME IN GitHub](https://github.com/NiveenAlSmadi) so HERE WE GO : 
 
 # Growth Mindset 
-**Self, you need to embrace the growth mindset. The growth mindset is cool** so what is the **Growth Mindset** ?
+“Instead of worrying about what you cannot control, shift your energy to what you can create.” **Roy T. Bennett** 
+## so what is the **Growth Mindset** ?
 meaning  of effort and difficulty are will transformed you with your fixed mindset, the belief that a person's capacities and talents can be improved over time. 
 ## HOW to develop a growth mindset? 
 1. Listen 
