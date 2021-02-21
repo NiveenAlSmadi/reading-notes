@@ -27,9 +27,13 @@ so click the link for more [FORMATTING SYNTAX](https://docs.github.com/en/github
 
 ## worksheet
 so there i make a simple fill in blank worksheet to make a revision , Feel free to [contact me](https://web.facebook.com/niveena.monem.9) if you face any problem with this :
+
 1.MarkDown is just a -----  text  with a few non-alphabetic characters thrown in. 
-2.To make the text *Italic you use  -----.
+
+2.To make the text *Italic* you use  -----.
+
 3.To make the text **bold**you use -----.
+
 4.GitHub Pages is a ------- hosting hosting service offered by GitHub.
  
 
