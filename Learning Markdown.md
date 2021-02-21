@@ -25,6 +25,15 @@ Create sophisticated formatting for your prose and code on GitHub with simple sy
 * Quoting text :You can quote text with a >.
 so click the link for more [FORMATTING SYNTAX](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#further-reading)
 
-##worksheet
-so there i make a simple worksheet to make a revision , Feel free to [contact me](https://web.facebook.com/niveena.monem.9) if you face any problem with this :
+## worksheet
+so there i make a simple fill in blank worksheet to make a revision , Feel free to [contact me](https://web.facebook.com/niveena.monem.9) if you face any problem with this :
+* MarkDown is just a -----  text  with a few non-alphabetic characters thrown in. 
+* To make the text Italic you use  -----.
+* To make the text bold you use -----.
+ 
+ * GitHub Pages is a ------- hosting hosting service offered by GitHub.
+ * 
+ * 
+ *  
+
 
