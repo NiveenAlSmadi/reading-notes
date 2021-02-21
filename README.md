@@ -1,32 +1,17 @@
 # Welcome to Niveen's Notes
-## Hey ,I'm Niveen 
-   22 years old , A Mechatronics Engineer  Graduated from Hasemaite Universty in this year a GIRL hungry for knowledge yet thirsty for innvation , has a passion in Programming.
+## Hey ,I'm Niveen ...
+       I'm 22 years old , A Mechatronics Engineer   Graduated from Hasemaite Universty in this year. A GIRL hungry for knowledge yet thirsty for innvation , has a passion in Programming.
 
 
-   
-It's a pleasure to me to be in my Web Page , in this page you will find some of notes about what i read **ABOUT GROWTH MINDSET** , so hope you enjoy it.
-[AND DON'T FORGET TO FOLLOW ME IN GitHub](https://github.com/NiveenAlSmadi) so HERE WE GO : 
 
-# Growth Mindset 
-“Instead of worrying about what you cannot control, shift your energy to what you can create.” **Roy T. Bennett** 
-## so what is the **Growth Mindset** ?
-meaning  of effort and difficulty are will transformed you with your fixed mindset, the belief that a person's capacities and talents can be improved over time. 
-## HOW to develop a growth mindset? 
-1. Listen 
-2. Recognize 
-3. Practice
-4. Find outside help
-5. Stop seeking approval of others
-6. Replace the world **failin** with **learning**
-7. Take growth mindset action . 
-###  I Mention here 3 reminders to myself of how thats keep me in a growth mindset:
+It's a pleasure to  be on my Web Page , in this tabel you will see the Contents WEB pages , simply my web pages its about summaries in most important tobics may help you in programming journey.
+[AND DON'T FORGET TO FOLLOW ME IN GitHub](https://github.com/NiveenAlSmadi) so HERE WE GO :
 
-- if you set your mind to it you can do anything.
-- There's no problem ,only solution.
-- **so what is the Failure?** Failure is the mother of Success. 
-
-#### Atached here a photo thats present adifferences between a fixed and a growth mindset:
-
-![fixed&growth mindset](https://tse2.mm.bing.net/th?id=OIP.bVZyRAtHGHwQb2TCmDEt0AHaEV&pid=Api&P=0&w=272&h=160). 
-
-
+                       Table(1.1)                  
+                      
+| Contant | Page number  | Fee  |
+| ---------| ----------- |---------|
+|  Growth Mindset  | [PAGE1](https://niveenalsmadi.github.io/reading-notes/Growth%20Mindset)| 0$ |
+|  MARKDOWN |[PAGE2](https://niveenalsmadi.github.io/reading-notes/Learning%20Markdown)| 0$ |
+|  GITHUB |[PAGE3](https://niveenalsmadi.github.io/reading-notes/GITHUB)| 0$ | 
+|  HTML|[PAGE4](https://niveenalsmadi.github.io/reading-notes/HTML)| 0$| 
