@@ -1,6 +1,7 @@
 # Welcome to Niveen's Notes
 ## Hey ,I'm Niveen ...
-       I'm 22 years old , A Mechatronics Engineer   Graduated from Hasemaite Universty in this year. A GIRL hungry for knowledge yet thirsty for innvation , has a passion in Programming.
+I'm 22 years old , A Mechatronics Engineer . Graduated from Hasemaite Universty in this year.
+A GIRL hungry for knowledge yet thirsty for innvation , has a passion in Programming.
 
 
 
