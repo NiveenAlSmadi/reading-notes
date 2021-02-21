@@ -18,4 +18,4 @@ meaning  of effort and difficulty are will transformed you with your fixed minds
 #### Atached here a photo thats present adifferences between a fixed and a growth mindset :
 ![fixed&growth mindset](https://tse2.mm.bing.net/th?id=OIP.bVZyRAtHGHwQb2TCmDEt0AHaEV&pid=Api&P=0&w=272&h=160). 
 
-                                                                                                                           [find me in GitHub](https://github.com/NiveenAlSmadi)
+
