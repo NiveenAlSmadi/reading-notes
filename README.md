@@ -1,3 +1,5 @@
+# **WELCOME TO NIVEEN AL SMADI  WEBPAGE**
+
 # Growth Mindset 
 **Self, you need to embrace the growth mindset. The growth mindset is cool** so what is the **Growth Mindset** ?
 meaning  of effort and difficulty are will transformed you with your fixed mindset, the belief that a person's capacities and talents can be improved over time. 
@@ -16,3 +18,5 @@ meaning  of effort and difficulty are will transformed you with your fixed minds
 
 #### Atached here a photo thats present adifferences between a fixed and a growth mindset :
 ![fixed&growth mindset](https://tse2.mm.bing.net/th?id=OIP.bVZyRAtHGHwQb2TCmDEt0AHaEV&pid=Api&P=0&w=272&h=160). 
+
+[find me in GitHub](https://github.com/NiveenAlSmadi)
