@@ -1,9 +1,10 @@
- # Welcome Again To Niveen's Notes 
- After I summary before about **GROWTH MINDSET**, now on this page, I will present a simple summarizes about the topics i learned ABOUT 
- * Markdown 
- * GitHub pages 
- * GitHub Markdown syntax 
- so I hope you find it useful : 
+# Welcome Again To Niveen's Notes 
+
+After I summary before about **GROWTH MINDSET**, now on this page, I will present a simple summarizes about the topics i learned ABOUT: 
+* Markdown 
+* GitHub pages 
+* GitHub Markdown syntax 
+so I hope you find it useful : 
  ## First of all I will talk about **MARKDOWN** 
  **Markdown** is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform, so Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
  SO you can use litters like # or * to make different styles and format 
