@@ -61,7 +61,7 @@ elements can be used for:
 - The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
 - The <aside> element has two purposes, depending on whether it is inside an <article> element or not.
 -The <section> element groups related content together, and typically each section would have its own heading.
-- The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading. 
+- The purpose of the <hgroup> element is to group together a set of one or more <h1 through h6> elements so that they are treated as one single heading. 
 - You already met the <figure>
 element in Chapter 5 when we looked at images. It can be used to contain any content that is referenced from the main flow of an article (not just images). 
 -However, the <div> element will remain an important way to group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated.
