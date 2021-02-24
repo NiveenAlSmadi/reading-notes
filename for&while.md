@@ -3,14 +3,19 @@ n JavaScript, there are a number of comparison operators that you can use to eva
 as well as if a value is greater than or less than another. Often, these operators are used with stored values in variables.
 Comparison operators all return a Boolean (logical) value of true or false.
   examples:
-==	Equal to
-!=	Not equal to
-===	Strictly equal to with no type conversion
-! ==	Strictly unequal to with no type conversion
->	Greater than
->=	Greater than or equal to
-<	Less than
-<=	Less than or equal to
+  
+   
+     ==	Equal to
+   !=	Not equal to
+     ===	Strictly equal to with no type conversion
+  ! ==	Strictly unequal to with no type conversion
+  >	Greater than
+  >=	Greater than or equal to
+  <	Less than
+  <=	Less than or equal to
+  
+  
+  
   
  # logical operators:
   There are four logical operators in JavaScript: || (OR), && (AND), ! (NOT), . 
