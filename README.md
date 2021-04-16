@@ -49,3 +49,26 @@ simply my web pages its about summaries in most important topics may help you in
 | --- | --- | --- |
 | Read 1 | | [Read 1](https://niveenalsmadi.github.io/reading-notes/code301/class-01) |
 | Read 2 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-02) |
+| Read 3 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-03) |
+| Read 4 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-04) |
+| Read 5 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-05) |
+| Read 6 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-06) |
+| Read 7 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-07) |
+| Read 8 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-08) |
+| Read 9 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-09) |
+| Read 10 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-10) |
+| Read 11 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-11) |
+| Read 12 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-12) |
+| Read 13 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-13) |
+| Read 14 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-14) |
+| Read 15 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-15) |
+
+
+## Code 401 - Advanced Software Development
+
+           Tabel (1.4)
+
+| Read No. | Read Name | Read Repo |
+| --- | --- | --- |
+
+
