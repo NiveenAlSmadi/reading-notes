@@ -66,9 +66,10 @@ simply my web pages its about summaries in most important topics may help you in
 
 ## Code 401 - Advanced Software Development
 
-<p style="text-align: center;">Table(1.4) </p> 
+<p style="text-align: center;">Table(1.4)</p> 
 
-| Read No. | Read Name | Read Repo |
+
+| Read No.| Read Name | Read Repo |
 | --- | --- | --- |
 
 
