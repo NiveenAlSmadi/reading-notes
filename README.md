@@ -8,7 +8,7 @@ simply my web pages its about summaries in most important topics may help you in
 
 
 ## Code 102 - Intro to Software Development
-               Table(1.1)   
+<p style="text-align: center;">Table(1.1) </p> 
 
 | Read No. | Read Name | Read Repo |
 | --- | --- | --- |
@@ -21,7 +21,7 @@ simply my web pages its about summaries in most important topics may help you in
      
 ## Code 201 - Foundations of Software Development
 
-             Table(1.2)   
+ <p style="text-align: center;">Table(1.2) </p> 
 
 | Read No. | Read Name | Read Repo |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ simply my web pages its about summaries in most important topics may help you in
                  
 ## Code 301 - Intermediate Software Development
 
-           Table(1.3)  
+<p style="text-align: center;">Table(1.3) </p> 
 
 | Read No. | Read Name | Read Repo |
 | --- | --- | --- |
@@ -66,7 +66,7 @@ simply my web pages its about summaries in most important topics may help you in
 
 ## Code 401 - Advanced Software Development
 
-           Tabel (1.4)
+<p style="text-align: center;">Table(1.4) </p> 
 
 | Read No. | Read Name | Read Repo |
 | --- | --- | --- |
