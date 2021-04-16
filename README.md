@@ -68,8 +68,3 @@ simply my web pages its about summaries in most important topics may help you in
 
 <p style="text-align: center;">Table(1.4)</p> 
 
-
-| Read No.| Read Name | Read Repo |
-| --- | --- | --- |
-
-
