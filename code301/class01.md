@@ -1,7 +1,7 @@
 ## SMACSS and Responsive Web Design 
 
 
-![img](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.isavgo.com%2Fimages%2Fmagazine%2Fweb%2520responsive.jpg&imgrefurl=https%3A%2F%2Fwww.isavgo.com%2Fservices%2520-renponsive-web.html&tbnid=yXiq8Q0SjejicM&vet=12ahUKEwjljrWljobwAhVPnaQKHdMCA9wQMygCegUIARCkAQ..i&docid=sI1B3rY_tl3wMM&w=1680&h=799&q=Responsive%20Web%20Design&safe=strict&ved=2ahUKEwjljrWljobwAhVPnaQKHdMCA9wQMygCegUIARCkAQ)
+![img](https://cdn.business2community.com/wp-content/uploads/2016/08/responsive-web-design-company-India-600x360.jpg)
 
 
 ## Responsive Web Design
@@ -32,7 +32,7 @@ Floats often get beat on for being fragile.The majority of this fragility comes 
 Float elements create two lines, such as an escalator. It allows for content to flow on both the rigth and left of the containing element, making design much more fluid.
 
 ### SMACSS Official Documentation 
-![img](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.swapps.com%2Fuploads%2F2017%2F03%2Fstarting-with-smacss-1.jpg&imgrefurl=https%3A%2F%2Fswapps.com%2Fblog%2Fwhat-is-smacss-and-how-to-use-it%2F&tbnid=MpXH1uFAn4qKiM&vet=12ahUKEwj1-OSzj4bwAhXE7rsIHU1YBwgQMygAegUIARCmAQ..i&docid=1oVmiCk0q9Uz7M&w=800&h=500&q=SMACSS&safe=strict&ved=2ahUKEwj1-OSzj4bwAhXE7rsIHU1YBwgQMygAegUIARCmAQ)
+![img](https://css-tricks.com/wp-content/uploads/2017/07/image3.png)
 
 
  - SMACSS refers to scalable and modular architecture for css
