@@ -47,7 +47,7 @@ simply my web pages its about summaries in most important topics may help you in
 
 | Read No. | Read Name | Read Repo |
 | --- | --- | --- |
-| Read 1 | | [Read 1](https://niveenalsmadi.github.io/reading-notes/code301/class-01) |
+| Read 1 | SMACSS and Responsive Web Design | [Read 1](https://niveenalsmadi.github.io/reading-notes/code301/class01) |
 | Read 2 | | [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class-02) |
 | Read 3 | | [Read 3](https://niveenalsmadi.github.io/reading-notes/code301/class-03) |
 | Read 4 | | [Read 4](https://niveenalsmadi.github.io/reading-notes/code301/class-04) |
