@@ -49,7 +49,7 @@ simply my web pages its about summaries in most important topics may help you in
 | --- | --- | --- |
 | Read 1 | SMACSS and Responsive Web Design | [Read 1](https://niveenalsmadi.github.io/reading-notes/code301/class01) |
 | Read 2 |  jQuery, Events, and The DOM| [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class02) |
-| Read 3 | | [Read 3](https://niveenalsmadi.github.io/reading-notes/code301/class-03) |
+| Read 3 |Flexbox and Templating | [Read 3](https://niveenalsmadi.github.io/reading-notes/code301/class-03) |
 | Read 4 | | [Read 4](https://niveenalsmadi.github.io/reading-notes/code301/class-04) |
 | Read 5 | | [Read 5](https://niveenalsmadi.github.io/reading-notes/code301/class-05) |
 | Read 6 | | [Read 6](https://niveenalsmadi.github.io/reading-notes/code301/class-06) |
