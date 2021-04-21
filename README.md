@@ -51,7 +51,7 @@ simply my web pages its about summaries in most important topics may help you in
 | Read 2 |  jQuery, Events, and The DOM| [Read 2](https://niveenalsmadi.github.io/reading-notes/code301/class02) |
 | Read 3 |Flexbox and Templating | [Read 3](https://niveenalsmadi.github.io/reading-notes/code301/class03) |
 | Read 4 | CSS GRID| [Read 4](https://niveenalsmadi.github.io/reading-notes/code301/class04) |
-| Read 5 | | [Read 5](https://niveenalsmadi.github.io/reading-notes/code301/class05) |
+| Read 5 |  HEROKU| [Read 5](https://niveenalsmadi.github.io/reading-notes/code301/class05) |
 | Read 6 | | [Read 6](https://niveenalsmadi.github.io/reading-notes/code301/class-06) |
 | Read 7 | | [Read 7](https://niveenalsmadi.github.io/reading-notes/code301/class-07) |
 | Read 8 | | [Read 8](https://niveenalsmadi.github.io/reading-notes/code301/class-08) |
