@@ -53,7 +53,7 @@ simply my web pages its about summaries in most important topics may help you in
 | Read 4 | CSS GRID| [Read 4](https://niveenalsmadi.github.io/reading-notes/code301/class04) |
 | Read 5 |  HEROKU| [Read 5](https://niveenalsmadi.github.io/reading-notes/code301/class05) |
 | Read 6 | NODE.JS| [Read 6](https://niveenalsmadi.github.io/reading-notes/code301/class06) |
-| Read 7 | | [Read 7](https://niveenalsmadi.github.io/reading-notes/code301/class-07) |
+| Read 7 | REST| [Read 7](https://niveenalsmadi.github.io/reading-notes/code301/class07) |
 | Read 8 | | [Read 8](https://niveenalsmadi.github.io/reading-notes/code301/class-08) |
 | Read 9 | | [Read 9](https://niveenalsmadi.github.io/reading-notes/code301/class-09) |
 | Read 10 | | [Read 10](https://niveenalsmadi.github.io/reading-notes/code301/class-10) |
