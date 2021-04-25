@@ -15,3 +15,10 @@ REST is a de-facto standard for a software architecture for interactive applicat
 - Post adds from one machine to another.
 - Put replaces something in another system.
 - Patch partially updates.
+
+### API Key
+An API key or application programming interface key is a code that gets passed in by computer applications. The program or application then calls the API or application programming interface to identify its user, developer or calling program to a website.
+
+Application programming keys are normally used to assist in tracking and controlling how the interface is being utilized. Often, it does this to prevent abuse or malicious use of the API in question.
+
+An API key can act as a secret authentication token as well as a unique identifier. Typically, the key will come with a set of access rights for the API that it is associated with.
