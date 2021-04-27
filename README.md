@@ -55,7 +55,7 @@ simply my web pages its about summaries in most important topics may help you in
 | Read 6 | NODE.JS| [Read 6](https://niveenalsmadi.github.io/reading-notes/code301/class06) |
 | Read 7 | REST| [Read 7](https://niveenalsmadi.github.io/reading-notes/code301/class07) |
 | Read 8 | SQL| [Read 8](https://niveenalsmadi.github.io/reading-notes/code301/class08) |
-| Read 9 | | [Read 9](https://niveenalsmadi.github.io/reading-notes/code301/class-09) |
+| Read 9 | FUNCTIONAL PROGRAMMING| [Read 9](https://niveenalsmadi.github.io/reading-notes/code301/class09) |
 | Read 10 | | [Read 10](https://niveenalsmadi.github.io/reading-notes/code301/class-10) |
 | Read 11 | | [Read 11](https://niveenalsmadi.github.io/reading-notes/code301/class-11) |
 | Read 12 | | [Read 12](https://niveenalsmadi.github.io/reading-notes/code301/class-12) |
