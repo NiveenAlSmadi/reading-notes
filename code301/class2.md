@@ -48,3 +48,8 @@ in the body of the HTTP request.***
   * Express for Node.js.
   * Laravel for PHP.
   * Ruby On Rails for Ruby
+
+  ### Summary
+As we'd alluded to above, sending form data is easy, but securing an application can be tricky. Just remember that a front-end developer is not the one who should define the security model of the data.It's possible to perform client-side form validation, but the server can't trust this validation because it has no way to truly know what has really happened on the client-side.
+
+If you've worked your way through these tutorials in order, you now know how to markup and style a form, do client-side validation, and have some idea about submitting a form.
