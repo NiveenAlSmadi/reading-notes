@@ -61,7 +61,7 @@ simply my web pages its about summaries in most important topics may help you in
 | Read 12 | EJS PARTIALS| [Read 12](https://niveenalsmadi.github.io/reading-notes/code301/class1) |
 | Read 13 |SENDING FORM DATA | [Read 13](https://niveenalsmadi.github.io/reading-notes/code301/class2) |
 | Read 14 | DB Normalization| [Read 14](https://niveenalsmadi.github.io/reading-notes/code301/class3) |
-| Read 15 | | [Read 15](https://niveenalsmadi.github.io/reading-notes/code301/class-15) |
+| Read 15 |Diversity & Inclusion in the Tech Industry | [Read 15](https://niveenalsmadi.github.io/reading-notes/code301/class4) |
 
 
 ## Code 401 - Advanced Software Development
