@@ -68,3 +68,20 @@ simply my web pages its about summaries in most important topics may help you in
 
 <p style="text-align: center;">Table(1.4)</p> 
 
+| Read No. | Read Name | Read Repo |
+| --- | --- | --- |
+| Read 1 | Topic | [Read 1](https://niveenalsmadi.github.io/reading-notes/code401/class01) |
+| Read 2 |  | [Read 2](https://niveenalsmadi.github.io/reading-notes/code401/class02) |
+| Read 3 | | [Read 3](https://niveenalsmadi.github.io/reading-notes/code401/class03) |
+| Read 4 | | [Read 4](https://niveenalsmadi.github.io/reading-notes/code401/class04) |
+| Read 5 |  | [Read 5](https://niveenalsmadi.github.io/reading-notes/code401/class05) |
+| Read 6 | | [Read 6](https://niveenalsmadi.github.io/reading-notes/code401/class06) |
+| Read 7 | | [Read 7](https://niveenalsmadi.github.io/reading-notes/code401/class07) |
+| Read 8 | | [Read 8](https://niveenalsmadi.github.io/reading-notes/code401/class08) |
+| Read 9 | | [Read 9](https://niveenalsmadi.github.io/reading-notes/code401/class09) |
+| Read 10 | | [Read 10](https://niveenalsmadi.github.io/reading-notes/code401/class10) |
+| Read 11 | | [Read 11](https://niveenalsmadi.github.io/reading-notes/code401/class11) |
+| Read 12 || [Read 12](https://niveenalsmadi.github.io/reading-notes/code401/class12) |
+| Read 13 | | [Read 13](https://niveenalsmadi.github.io/reading-notes/code401/class13) |
+| Read 14 | | [Read 14](https://niveenalsmadi.github.io/reading-notes/code401/class14) |
+| Read 15 | | [Read 15](https://niveenalsmadi.github.io/reading-notes/code401/class15) |
