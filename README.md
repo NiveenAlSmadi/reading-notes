@@ -71,7 +71,7 @@ simply my web pages its about summaries in most important topics may help you in
 | Read No. | Read Name | Read Repo |
 | --- | --- | --- |
 | Read 1 | Topic | [Read 1](https://niveenalsmadi.github.io/reading-notes/code401/class01) |
-| Read 2 |  | [Read 2](https://niveenalsmadi.github.io/reading-notes/code401/class02) |
+| Read 2 | Testing and Modules | [Read 2](https://niveenalsmadi.github.io/reading-notes/code401/class02) |
 | Read 3 | | [Read 3](https://niveenalsmadi.github.io/reading-notes/code401/class03) |
 | Read 4 | | [Read 4](https://niveenalsmadi.github.io/reading-notes/code401/class04) |
 | Read 5 |  | [Read 5](https://niveenalsmadi.github.io/reading-notes/code401/class05) |
