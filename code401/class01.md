@@ -26,7 +26,7 @@ Big O notation is used in Computer Science to describe the performance or comple
 
 - O(2^N)
 
-`O(2^N)` denotes an algorithm whose growth doubles with each addition to the input data set. The growth curve of an O(2^N) function is exponential — starting off very shallow, then rising meteorically. 
+`O(2^N)` denotes an algorithm whose growth doubles with each addition to the input data set. The growth curve of an O(2^N) function is exponential — https://niveenalsmadi.github.io/reading-notes/code401/class03
 
 
 ![img](https://res.cloudinary.com/practicaldev/image/fetch/s--ark_FZG1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/1omv0tmikzeaj24z8ps2.jpeg)
