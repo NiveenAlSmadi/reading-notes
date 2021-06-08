@@ -73,7 +73,7 @@ simply my web pages its about summaries in most important topics may help you in
 | Read 1 | Topic | [Read 1](https://niveenalsmadi.github.io/reading-notes/code401/class01) |
 | Read 2 | Testing and Modules | [Read 2](https://niveenalsmadi.github.io/reading-notes/code401/class02) |
 | Read 3 |FileIO & Exceptions | [Read 3](https://niveenalsmadi.github.io/reading-notes/code401/class03) |
-| Read 4 | | [Read 4](https://niveenalsmadi.github.io/reading-notes/code401/class04) |
+| Read 4 | Classes and Objects| [Read 4](https://niveenalsmadi.github.io/reading-notes/code401/class04) |
 | Read 5 |  | [Read 5](https://niveenalsmadi.github.io/reading-notes/code401/class05) |
 | Read 6 | | [Read 6](https://niveenalsmadi.github.io/reading-notes/code401/class06) |
 | Read 7 | | [Read 7](https://niveenalsmadi.github.io/reading-notes/code401/class07) |
