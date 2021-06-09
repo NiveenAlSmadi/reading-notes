@@ -28,7 +28,7 @@ When traversing a linked list, you are not able to use a foreach or for loop. We
 ### Big O:
 The **Big** O of time for Includes would be O(n). This is because, at its worse case, the node we are looking for will be the very last node in the linked list. n represents the number of nodes in the linked list.
 
-###  dding a Node
+###  Adding a Node
 - **Adding O(1):**
 Order of operations is extremely important when it comes to working with a Linked List. What I mean by this is you must be careful that all references to each link/node is properly assigned.
 
