@@ -75,8 +75,8 @@ simply my web pages its about summaries in most important topics may help you in
 | Read 3 |FileIO & Exceptions | [Read 3](https://niveenalsmadi.github.io/reading-notes/code401/class03) |
 | Read 4 | Classes and Objects| [Read 4](https://niveenalsmadi.github.io/reading-notes/code401/class04) |
 | Read 5 | Linked Lists | [Read 5](https://niveenalsmadi.github.io/reading-notes/code401/class05) |
-| Read 6 |Random functions | [Read 6](https://niveenalsmadi.github.io/reading-notes/code401/class06) |
-| Read 7 | | [Read 7](https://niveenalsmadi.github.io/reading-notes/code401/class07) |
+| Read 6 | Random functions | [Read 6](https://niveenalsmadi.github.io/reading-notes/code401/class06) |
+| Read 7 | global and nonlocal| [Read 7](https://niveenalsmadi.github.io/reading-notes/code401/class07) |
 | Read 8 | | [Read 8](https://niveenalsmadi.github.io/reading-notes/code401/class08) |
 | Read 9 | | [Read 9](https://niveenalsmadi.github.io/reading-notes/code401/class09) |
 | Read 10 | | [Read 10](https://niveenalsmadi.github.io/reading-notes/code401/class10) |
