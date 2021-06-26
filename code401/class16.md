@@ -1,77 +1,62 @@
-# Trees
-Common Terminology
+# Data Science Primer : 
 
-- Node - A Tree node is a component which may contain it’s own values, and references to other nodes
-- Root - The root is the node at the beginning of the tree
-- K - A number that specifies the maximum number of children any node may have in a k-ary tree. In a binary tree, k = 2.
-- Left - A reference to one child node, in a binary tree
-- Right - A reference to the other child node, in a binary tree
-- Edge - The edge in a tree is the link between a parent and child node
-- Leaf - A leaf is a node that does not have any children
-- Height - The height of a tree is the number of edges from the root to the furthest leaf
+### Chapter 1: Bird's Eye View : 
 
-### Traversals
-An important aspect of trees is how to traverse them. Traversing a tree allows us to search for a node, print out the contents of a tree, and much more! There are two categories of traversals when it comes to trees:
+* **Machine learning is not about algorithms.** 
+...and individual algorithms are only one piece of the puzzle. The rest of the puzzle is how you apply them the right way.
 
-1-Breadth First
+#### `What makes machine learning so special? 
 
-2-Depth First
+M achine learning is the practice of teaching computers how to learn patterns from data, often for making decisions or predictions.
 
-3-Depth first traversal is where we prioritize going through the depth (height) of the tree first. There are multiple ways to carry out depth first traversal, and each method changes the order in which we search/print the root. Here are three methods for depth first traversal:
+For true machine learning, the computer must be able to learn patterns that it's not explicitly programmed to identify.
+
+#### Key Terminology 
+
+Model - a set of patterns learned from data.
+
+Algorithm - a specific ML process used to train a model.
+
+Training data - the dataset from which the algorithm learns the model.
+
+Test data - a new dataset for reliably evaluating model performance.
+
+Test data - a new dataset for reliably evaluating model performance.
+
+Target variable - A specific variable you're trying to predict.
+
+Observations - Data points (rows) in the dataset.
+
+#### Machine Learning Tasks
+
+Academic machine learning starts with and focuses on individual algorithms. However, in applied machine learning, you should first pick the right machine learning task for the job.
+
+* A task is a specific objective for your algorithms.
+
+* Algorithms can be swapped in and out, as long as you pick the right task.
+
+In fact, you should always try multiple algorithms because you most likely won't know which one will perform best for your dataset.
+
+#### The 3 Elements of Great Machine Learning
+
+1. A skilled chef (human guidance)
+First, even though we are "teaching computers to learn on their own," human guidance plays a huge role.
+
+2. Fresh ingredients (clean, relevant data)
+The second essential element is the quality of your data.
+
+3.  Don't overcook it (avoid overfitting)
+One of the most dangerous pitfalls in machine learning is overfitting. An overfit model has "memorized" the noise in the training set, instead of learning the true underlying patterns.
+
+### Data Cleaning
 
 
-- Pre-order: root >> left >> right
-- In-order: left >> root >> right
-- Post-order: left >> right >> root
+Data cleaning is one those things that everyone does but no one really talks about. Sure, it’s not the "sexiest" part of machine learning. And no, there aren’t hidden tricks and secrets to uncover.
 
+However, proper data cleaning can make or break your project. Professional data scientists usually spend a very large portion of their time on this step.
 
-It’s important to note a few things that are about to happen:
+Better data beats fancier algorithms.
 
-The program will look for both a root.left and a root.right. Both will return null, so it will end the execution of that method call
-D will pop off of the call stack and the root will be reassigned back to B
-This is the heart of recursion: when we complete a function call, we pop it off the stack and are able to continue execution through the previous function call
+In other words... garbage in gets you garbage out. Even if you forget everything else from this course, please remember this point.
 
-### Binary Tree Vs K-ary Trees
-In all of our examples, we’ve been using a Binary Tree. Trees can have any number of children per node, but Binary Trees restrict the number of children to two (hence our left and right children).
-
-There is no specific sorting order for a binary tree. Nodes can be added into a binary tree wherever space allows. Here is what a binary tree looks like:
-
-### K-ary Trees
-If Nodes are able have more than 2 child nodes, we call the tree that contains them a K-ary Tree. In this type of tree we use K to refer to the maximum number of children that each Node is able to have.
-
-Breadth First Traversal
-Traversing a K-ary tree requires a similar approach to the breadth first traversal. We are still pushing nodes into a queue, but we are now moving down a list of children of length k, instead of checking for the presence of a left and a right child.
-
-
-Pseudocode
-This process is very similar to our binary tree traversal, but now we check a list of children instead of a left and right child properties. It should look something like this:
-```
-ALGORITHM breadthFirst(root)
-// INPUT  <-- root node
-// OUTPUT <-- front node of queue to console
-
-  Queue breadth <-- new Queue()
-  breadth.enqueue(root)
-
-  while breadth.peek()
-    node front = breadth.dequeue()
-    OUTPUT <-- front.value
-
-    for child in front.children
-        breadth.enqueue(child)
-        
-        
-```
-### Adding a node
-Because there are no structural rules for where nodes are “supposed to go” in a binary tree, it really doesn’t matter where a new node gets placed.
-
-One strategy for adding a new node to a binary tree is to fill all “child” spots from the top down. To do so, we would leverage the use of breadth first traversal. During the traversal, we find the first node that does not have all it’s children filled, and insert the new node as a child. We fill the child slots from left to right.
-
-In the event you would like to have a node placed in a specific location, you need to reference both the new node to create, and the parent node upon which the child is attached to.
-
-### Big O
-The Big O time complexity for inserting a new node is O(n). Searching for a specific node will also be O(n). Because of the lack of organizational structure in a Binary Tree, the worst case for most operations will involve traversing the entire tree. If we assume that a tree has n nodes, then in the worst case we will have to look at n items, hence the O(n) complexity.
-
-The Big O space complexity for a node insertion using breadth first insertion will be O(w), where w is the largest width of the tree. For example, in the above tree, w is 4.
-
-A “perfect” binary tree is one where every non-leaf node has exactly two children. The maximum width for a perfect binary tree, is 2^(h-1), where h is the height of the tree. Height can be calculated as log n, where n is the number of nodes.
+In fact, if you have a properly cleaned dataset, even simple algorithms can learn impressive insights from the data!
