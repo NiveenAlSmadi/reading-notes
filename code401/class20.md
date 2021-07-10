@@ -28,7 +28,7 @@ Django is written in Python, which runs on many platforms. That means that you a
 - Object-relational mapper
 Deﬁne your data models entirely in Python. You get a rich, dynamic database-access API for free — but you can still write SQL if needed.
 
-```
+```py
 class Band(models.Model):
     """A model of a rock band."""
     name = models.CharField(max_length=200)
@@ -57,7 +57,7 @@ A clean, elegant URL scheme is an important detail in a high-quality Web applica
 To design URLs for an application, you create a Python module called a URLconf. Like a table of contents for your app, it contains a simple mapping between URL patterns and your views.    
 
 
-```
+```py
 from django.urls import path
 
 from . import views
