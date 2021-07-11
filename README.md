@@ -89,4 +89,6 @@ simply my web pages its about summaries in most important topics may help you in
 | Read 17 |Web Scraping| [Read 17](https://niveenalsmadi.github.io/reading-notes/code401/class17) |
 | Read 18 |Ceasar Cipher| [Read 18](https://niveenalsmadi.github.io/reading-notes/code401/class18) |
 | Read 19 |Automation| [Read 19](https://niveenalsmadi.github.io/reading-notes/code401/class19) |
-| Read 20 |Intro to Django| [Read 20](https://niveenalsmadi.github.io/reading-notes/code401/class20) |
+| midterm |midterm| [midterm]() |
+| Read 26 |Intro to Django| [Read 26](https://niveenalsmadi.github.io/reading-notes/code401/class26) |
+| Read 27 | Django Models| [Read 27](https://niveenalsmadi.github.io/reading-notes/code401/class27) |
