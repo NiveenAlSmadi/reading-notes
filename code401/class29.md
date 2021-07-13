@@ -79,7 +79,7 @@ TEMPLATES = [
 ```
 Then set the redirect links for log in and log out, which will both go to our home template. Add these two lines at the bottom of the file.
 
-#### config/settings.py
+####config/settings.py
 LOGIN_REDIRECT_URL = 'home'
 LOGOUT_REDIRECT_URL = 'home'
 Create a new project-level templates folder and within it a registration folder as that's where Django will look for the log in template. We will also put our signup.html template in there.
