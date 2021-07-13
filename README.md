@@ -93,3 +93,4 @@ simply my web pages its about summaries in most important topics may help you in
 | Read 26 |Intro to Django| [Read 26](https://niveenalsmadi.github.io/reading-notes/code401/class26) |
 | Read 27 | Django Models| [Read 27](https://niveenalsmadi.github.io/reading-notes/code401/class27) |
 | Read 28 | Django CRUD and Forms| [Read 28](https://niveenalsmadi.github.io/reading-notes/code401/class28) |
+| Read 29 |  Django Custom User| [Read 29](https://niveenalsmadi.github.io/reading-notes/code401/class29) |
